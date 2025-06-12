@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website! This is a responsive showcase of my skills, projects, and achievements. Designed with a focus on clean aesthetics and user experience, this portfolio is built using **Next.js** and **TailwindCSS** for a fast, dynamic, and visually appealing web experience.
 
+🔗 **Live Site**: [https://v0-omar-rasin-portfolio.vercel.app/](https://v0-omar-rasin-portfolio.vercel.app/)
 
 ## ✨ Features
 
